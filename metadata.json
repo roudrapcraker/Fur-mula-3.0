@@ -1,0 +1,6 @@
+{
+  "name": "Fur-mula 3.0",
+  "description": "An integrated pet adoption, veterinary clinic, and supply logistics management system with a full 12-table relational database engine, interactive SQL console, and automated workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
